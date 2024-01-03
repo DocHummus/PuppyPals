@@ -40,3 +40,18 @@
 .read-the-docs {
   color: #888;
 }
+
+.featPup {
+  color: maroon;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  font-weight: bold;
+}
+p {
+  margin: auto;
+  justify-content: center;
+  padding: 10px;
+  color: darkolivegreen;
+  font-family: monospace;
+  font-weight: bolder;
+  font-size: larger;
+}
